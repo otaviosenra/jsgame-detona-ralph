@@ -9,7 +9,7 @@ const state = {
     gameVelocity: 1000,
     hitPosition: 0,
     result: 0,
-    curretTime: 60,
+    curretTime: 90,
   },
   actions: {
     timerId: setInterval(randomSquare, 1000),
